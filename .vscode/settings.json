@@ -1,0 +1,10 @@
+{
+    "editor.tabCompletion": "on",
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+    
+}
