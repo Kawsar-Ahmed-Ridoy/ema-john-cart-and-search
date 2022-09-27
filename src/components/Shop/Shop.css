@@ -1,7 +1,6 @@
 .shopContainer{
     display: grid;
     grid-template-columns: 4fr 1fr;
-    border: 3px solid #fb5200;
 }
 .productContainer{
     display: grid;
